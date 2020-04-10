@@ -15,7 +15,6 @@
 <p>The project is made of a web application, following the course React.js Web Application from CodeCademy.</p>
 <p>In short, it consists of a service to receive data of restaurants interest from users, filter and show.<br /><p>
 
-<img src="https://img.shields.io/badge/Made%20With-React.js-61DAFB?logo=react&style=for-the-badge">
 
 <h2>Required</h2>
 
