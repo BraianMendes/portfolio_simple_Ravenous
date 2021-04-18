@@ -1,4 +1,10 @@
-<h1 align="center">Ravenous Restaurant Website</h1>
+<h1 align="center">Welcome to Ravenous 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/'braian_dev'" target="_blank">
+    <img alt="Twitter: 'braian_dev'" src="https://img.shields.io/twitter/follow/'braian_dev'.svg?style=social" />
+  </a>
+</p>
 
 <p align="center">
 
@@ -7,14 +13,9 @@
 
 </p>
 
-<br />
-<h1 align="center">What the project is about</h1>
+> The project is made of a web application, following the course React.js Web Application from CodeCademy. In short, it consists of a service to receive data of restaurants interest from users, filter and show.
 
-<p><img src="https://img.shields.io/badge/Course-CodeCademy-%231F4056?logo=codecademy&style=for-the-badge"></p>
-
-<p>The project is made of a web application, following the course React.js Web Application from CodeCademy.</p>
-<p>In short, it consists of a service to receive data of restaurants interest from users, filter and show.<br /><p>
-
+### 🏠 [Homepage](.)
 
 <h2>Required</h2>
 
@@ -46,3 +47,19 @@ http://localhost:3000/
 ```
 
 <h5>Thank you very much for reading so far. I'm open for everything, and I really hope to see you next time. Best Regards, Braian.</h5>
+
+## Author
+
+👤 **Braian Mendes**
+
+* Twitter: [@'braian_dev'](https://twitter.com/'braian_dev')
+* Github: [@BraianMendes](https://github.com/BraianMendes)
+* LinkedIn: [@braianmendes](https://linkedin.com/in/braianmendes)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+<a href="https://www.patreon.com/braian_dev">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
