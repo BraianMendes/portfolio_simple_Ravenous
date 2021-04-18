@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Ravenous 👋</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/'braian_dev'" target="_blank">
-    <img alt="Twitter: 'braian_dev'" src="https://img.shields.io/twitter/follow/'braian_dev'.svg?style=social" />
+  <a href="https://twitter.com/braian_dev" target="_blank">
+    <img alt="Twitter: 'braian_dev'" src="https://img.shields.io/twitter/follow/braian_dev.svg?style=social" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ http://localhost:3000/
 
 👤 **Braian Mendes**
 
-* Twitter: [@'braian_dev'](https://twitter.com/'braian_dev')
+* Twitter: [@'braian_dev'](https://twitter.com/braian_dev)
 * Github: [@BraianMendes](https://github.com/BraianMendes)
 * LinkedIn: [@braianmendes](https://linkedin.com/in/braianmendes)
 
