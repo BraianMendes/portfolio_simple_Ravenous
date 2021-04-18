@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Ravenous 👋</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/'braian_dev'" target="_blank">
     <img alt="Twitter: 'braian_dev'" src="https://img.shields.io/twitter/follow/'braian_dev'.svg?style=social" />
@@ -46,9 +46,9 @@ You can access the web application in the localhost:3000.
 http://localhost:3000/
 ```
 
-<h5>Thank you very much for reading so far. I'm open for everything, and I really hope to see you next time. Best Regards, Braian.</h5>
-
 ## Author
+
+<h5>Thank you very much for reading so far. I'm open for everything, and I really hope to see you next time. Best Regards, Braian.</h5>
 
 👤 **Braian Mendes**
 
